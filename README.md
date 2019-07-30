@@ -10,4 +10,5 @@ This contains 3 screenshots of the UI part:
 3. registration_page.JPG (used HTML, CSS, Bootstrap, Javascript, jQuery)
 
 # Requirements:
-Any local server (eg: Pivotal tc Server/Apache Tomcat server)
+1. Any local server (eg: Pivotal tc Server/Apache Tomcat server).
+2. Any Database (used Oracle 11g).
