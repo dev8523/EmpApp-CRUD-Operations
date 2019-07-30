@@ -1,3 +1,9 @@
+/**
+ * @author Debasish Sahoo
+ * @description This class is for providing Database connection
+ *
+ */
+
 package com.infinite.EmpApp.utils;
 
 import java.sql.Connection;

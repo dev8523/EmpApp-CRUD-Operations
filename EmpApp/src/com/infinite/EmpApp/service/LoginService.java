@@ -1,3 +1,9 @@
+/**
+ * @author Debasish Sahoo
+ * @description This is an interface having different methods to be implemented in the implementation class.
+ *
+ */
+
 package com.infinite.EmpApp.service;
 
 import java.sql.SQLException;
@@ -16,7 +22,6 @@ public interface LoginService {
 
 	public String changeStatus(String id, int status) throws SQLException;
 
-	// public String changeStatus(String id, int status) throws SQLException;
 	public int checkStatus(String id) throws SQLException;
 
 	public String authorisation(String id) throws SQLException;

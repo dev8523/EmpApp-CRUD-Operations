@@ -1,3 +1,9 @@
+/**
+ * @author Debasish Sahoo
+ * @description This is a POJO class for Login Page.
+ *
+ */
+
 package com.infinite.EmpApp.bean;
 
 public class LoginBean {

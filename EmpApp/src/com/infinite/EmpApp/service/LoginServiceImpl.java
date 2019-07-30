@@ -1,3 +1,9 @@
+/**
+ * @author Debasish Sahoo
+ * @description This class has the implementations of the Login service interface.
+ *
+ */
+
 package com.infinite.EmpApp.service;
 
 import java.sql.SQLException;

@@ -1,3 +1,9 @@
+/**
+ * @author Debasish Sahoo
+ * @description This class has the implementations of the Login service interface for Login.
+ *
+ */
+
 package com.infinite.EmpApp.dao;
 
 import java.sql.Connection;

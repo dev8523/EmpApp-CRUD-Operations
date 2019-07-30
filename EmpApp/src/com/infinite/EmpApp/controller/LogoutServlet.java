@@ -1,3 +1,9 @@
+/**
+ * @author Debasish Sahoo
+ * @description This class helps to logout after logging in.
+ *
+ */
+
 package com.infinite.EmpApp.controller;
 
 import java.io.IOException;

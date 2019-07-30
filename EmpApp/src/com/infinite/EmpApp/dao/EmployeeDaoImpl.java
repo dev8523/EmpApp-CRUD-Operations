@@ -1,3 +1,9 @@
+/**
+ * @author Debasish Sahoo
+ * @description This class has the implementations of the Employee Dao interface for Registration and performing CRUD operations.
+ *
+ */
+
 package com.infinite.EmpApp.dao;
 
 import java.sql.Connection;

@@ -1,3 +1,9 @@
+/**
+ * @author Debasish Sahoo
+ * @description This class has the implementations of the Employee service interface for Registration and performing CRUD operations.
+ *
+ */
+
 package com.infinite.EmpApp.service;
 
 import java.sql.SQLException;

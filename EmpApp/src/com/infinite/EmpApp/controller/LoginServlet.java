@@ -1,3 +1,15 @@
+/**
+ * @author Debasish Sahoo
+ * 
+ * @description This class helps to perform 
+ * login (authentication, authorisation, checkStatus, changeStatus)
+ * here you can login as (admin/user) .
+ * Previously userstatus will be 0 for both admin and user.
+ * When you will log in by proviring credentials as (userid/password- admin/admin or user/user) 
+ * then it will change status to 1. 
+ *
+ */
+
 package com.infinite.EmpApp.controller;
 
 import java.io.IOException;

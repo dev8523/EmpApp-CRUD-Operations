@@ -1,3 +1,9 @@
+/**
+ * @author Debasish Sahoo
+ * @description This is an interface having different methods to be implemented in the implementation class.
+ *
+ */
+
 package com.infinite.EmpApp.dao;
 
 import java.sql.SQLException;
