@@ -1,6 +1,6 @@
 /**
  * @author Debasish Sahoo
- * @description This class helps to get the datas from the registartion form and store it in DB.
+ * @description This class helps to get the datas from the registration form and store it in DB.
  *
  */
 
