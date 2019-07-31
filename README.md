@@ -14,4 +14,4 @@ This contains 3 screenshots of the UI part:
 2. Any Database (used Oracle 11g).
 
 # Note:
-If you want to import this project in eclipse, then please remove these 3 screenshots that i have mentioned above and attached in the file.
+If you want to import this project in eclipse, then please remove these 3 screenshots that i have mentioned above.
