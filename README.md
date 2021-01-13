@@ -1,5 +1,5 @@
 # EmpApp-CRUD-Operations
-This is a project which is developed using:
+This is a J2EE project which is developed using:
 1. Backend- JDBC, Servlets & JSP.
 2. Frontend- HTML, CSS, Bootstrap, Javascript, jQuery.
 
