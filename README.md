@@ -1,6 +1,6 @@
 # EmpApp-CRUD-Operations
 This is a J2EE project which is developed using:
-1. Backend- JDBC, Servlets & JSP.
+1. Backend- JDBC, Servlets & JSP, Singleton Deign Pattern.
 2. Frontend- HTML, CSS, Bootstrap, Javascript.
 
 # For your Understanding:
